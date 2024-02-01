@@ -79,7 +79,7 @@ export default function Login() {
                 <li><i className={`fa-brands fa-twitter ${styles.twitterIcon}`}></i></li>
                 <li><i className={`fa-brands fa-google-plus-g ${styles.googleIcon}`}></i></li>
               </ul>
-              <p className='mt-2 me-3'>Don't Have an account? <Link to='/' className='text-primary mx-2'>Sign up</Link> </p>
+              <p className='mt-2 me-3'>Don't Have an account? <Link to='/signup' className='text-primary mx-2'>Sign up</Link> </p>
 
            </div>
       
